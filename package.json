@@ -1,0 +1,23 @@
+{
+  "name": "pptx-to-html5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "multer": "^2.0.2",
+    "fs": "^0.0.2",
+    "path": "^0.12.7",
+    "uuid": "^11.1.0",
+    "ppt-png": "^2.2.0",
+    "dotenv": "^17.2.1"
+  },
+  "keywords": [],
+  "author": "Sharanam Chotai",
+  "license": "ISC",
+  "packageManager": "pnpm@10.13.1"
+}
